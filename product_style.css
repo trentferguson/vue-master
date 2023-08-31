@@ -59,6 +59,10 @@ body {
   .disabledButton {
     background-color: #d8d8d8;
   }
+
+  .outOfStock {
+    color: red;
+  }
   
   .review-form {
     width: 400px;
